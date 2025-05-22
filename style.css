@@ -94,8 +94,24 @@ body {
   }
 }
 
+@media screen and (min-width: 767px) {
+  body {
+    margin: 24rem 0;
+  }
+}
+
 @media screen and (min-width: 1024px) {
-  /* Sicko things */
+  body {
+    margin: 24rem 0;
+    font-size: 6rem;
+    padding: 4rem;
+  }
+}
+
+@media screen and (min-width: 1599px) {
+  body {
+    margin: 22rem 0;
+  }
 }
 
 @keyframes fade {

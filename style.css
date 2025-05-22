@@ -94,6 +94,10 @@ body {
   }
 }
 
+@media screen and (min-width: 1024px) {
+  /* Sicko things */
+}
+
 @keyframes fade {
   from {
     opacity: 0;
